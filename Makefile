@@ -1,6 +1,6 @@
 ##################################################
 ##                                              ##
-##      Simple Universal C/C++ Makefile         ##
+##       Simple Universal C/C++ Makefile        ##
 ##                                              ##
 ##   Targets:                                   ##
 ##   help      show usage information           ##
